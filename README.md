@@ -1,2 +1,2 @@
 # Smile-Detection
-Smile Detection using CNN.
+Smile Detection using machine learning.
